@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
+xgboost
 joblib
 fastapi
 uvicorn[standard]
@@ -9,3 +10,4 @@ matplotlib
 seaborn
 shap
 pytest
+jupyter
